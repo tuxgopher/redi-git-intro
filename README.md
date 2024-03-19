@@ -1,2 +1,1 @@
-# redi-git-intro
-A public repository to experiment with git
+Welcome to this Git course :)
