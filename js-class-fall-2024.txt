@@ -48,7 +48,7 @@ Both Yassine & Payam will edit the line below - when merging we have to resolve 
 - We love javascript because ...
 
 Lena & Yusuf:
-- We are fluent in the following languages Russian, Ukrainian, German and Englisch(so-so)
+- We are fluent in the following languages Russian, Ukrainian, German and English
 
 Sabrina & Sarra:
 - Our favorite meals are ...
