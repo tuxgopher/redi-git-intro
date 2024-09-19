@@ -3,8 +3,8 @@ Hello Class !
 Let's use this file to share each a few sentences about our day.
 
 Yassine says:
-- ...
-- ...
+- Today I woke up too early. I had to drink too much coffee to boot up.
+- I worked for a couple of hours, then started playing a video game
 
 Payam:
 - ...
