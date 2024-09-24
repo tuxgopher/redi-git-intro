@@ -1,0 +1,59 @@
+Hello Class !
+
+Let's use this file to share each a few sentences about our day.
+
+Yassine says:
+- Today I woke up too early. I had to drink too much coffee to boot up.
+- I worked for a couple of hours, then started playing a video game
+
+Payam:
+- ...
+- ...
+
+Mary:
+- ...
+- ...
+
+Lena:
+- I woke up at 9 a.m because i have a holidays
+
+Rénée:
+- ...
+- ...
+
+Sabrina:
+- ...
+- ...
+
+Sarra:
+- ...
+- ...
+
+
+Ying:
+- ...
+- ...
+
+Yusuf:
+- I went to work with my bike today because the weather was nice.
+
+Dhara Kathiriya:
+- ...
+- ...
+
+And now, let's try to resolve a conflict.
+
+Both Yassine & Payam will edit the line below - when merging we have to resolve the conflict
+- We love javascript because ...
+
+Lena & Yusuf:
+- We are fluent in the following languages Russian, Ukrainian, German, English, Kurdish, Turkish and Italian.
+
+Sabrina & Sarra:
+- Our favorite meals are ...
+
+Ying & Mary:
+- Some of our favourite films are ...
+
+Renée & Dara:
+- Our favorite authors are ...
