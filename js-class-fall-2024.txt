@@ -18,8 +18,8 @@ Lena:
 - I woke up at 9 a.m because i have a holidays
 
 Rénée:
-- ...
-- ...
+https://github.com/RineiB0/redi-git-intro.git- It was hard day 
+- I woke up around 5 am
 
 Sabrina:
 - ...
@@ -56,4 +56,4 @@ Ying & Mary:
 - Some of our favourite films are the Godfather and Duel in the Sun.
 
 Renée & Dara:
-- Our favorite authors are ...
+- Our favorite authors are Lovecraft, Silvia Federici, Pablo Rojas, Isabel Allende
